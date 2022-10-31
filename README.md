@@ -3,7 +3,7 @@ Some useful information related with Elasticsearch.
 
 ## Overview
 * [Installation](#installation)
-* [Terms (Elasticsearch vs RDBMS)](#terms--elasticsearch-vs-rdbms)
+* [Terms (Elasticsearch vs RDBMS)](#terms-elasticsearch-vs-rdbms)
 
 ### Installation
 
